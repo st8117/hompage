@@ -1,0 +1,5 @@
+Trigger Interface:
+http://developer.force.com/cookbook/recipe/trigger-pattern-for-tidy-streamlined-bulkified-triggers
+
+Trigger Handler
+https://github.com/kevinohara80/sfdc-trigger-framework/blob/master/src/classes/TriggerHandler.cls
